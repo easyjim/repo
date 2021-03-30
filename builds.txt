@@ -1,5 +1,5 @@
 id="plugin.program.easyjimwizard"
-version="1.0"
+version="2.0.4"
 zip="https://raw.com/easyjim/easyjim.github.io/master/zips/repository.easyjim/"
 
 name="fgh"
